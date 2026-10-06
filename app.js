@@ -7,7 +7,7 @@ document.querySelector(".app").addEventListener("click", () => {
   const table = document.querySelector(".table");
   table.innerHTML = "";
   toggleWebSite = false;
-  fetch("./data/data.json")
+  fetch("/data/data.json")
     .then((data) => data.json())
     .then((data) => {
       console.log(data);
