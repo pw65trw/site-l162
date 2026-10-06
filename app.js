@@ -10,8 +10,6 @@ document.querySelector(".app").addEventListener("click", () => {
   fetch("./data/data.json")
     .then((data) => data.json())
     .then((data) => {
-      console.log(data);
-      
       const avaBackgroud = [
         "background:linear-gradient(" +
           Math.floor(Math.random() * 180) +
