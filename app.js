@@ -7,7 +7,7 @@ document.querySelector(".app").addEventListener("click", () => {
   const table = document.querySelector(".table");
   table.innerHTML = "";
   toggleWebSite = false;
-  fetch("/data/data.json")
+  fetch("./data/data.json")
     .then((data) => data.json())
     .then((data) => {
       console.log(data);
@@ -151,7 +151,7 @@ document.querySelector(".webSite").addEventListener("click", () => {
   const table = document.querySelector(".table");
   table.innerHTML = "";
   toggleWebSite = true;
-  fetch("/data/data.json")
+  fetch("./data/data.json")
     .then((data) => data.json())
     .then((data) => {
       const avaBackgroud = [
@@ -299,7 +299,7 @@ document.querySelector(".webSite").addEventListener("click", () => {
                 `;
     });
 });
-fetch("/data/data.json")
+fetch("./data/data.json")
   .then((data) => data.json())
   .then((data) => {
     const avaBackgroud = [
