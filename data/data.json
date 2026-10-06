@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Alphabet",
+    "Alphabet": [
+      {
+        "Google": [
+          {
+            "name": "Gemini",
+            "type": "Divertissement",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "YouTube",
+            "type": "Divertissement",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "YouTube Music",
+            "type": "Streaming de musique",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": false,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Android",
+            "type": "Telephone",
+            "havePos": true,
+            "haveCamera": true,
+            "haveMike": true,
+            "havePicture": true,
+            "haveMusic": true,
+            "haveNotification": true,
+            "haveProximityDevice": true
+          },
+          {
+            "name": "Google Chrome",
+            "type": "Navigateur",
+            "havePos": true,
+            "haveCamera": true,
+            "haveMike": true,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Google",
+            "type": "Moteur de recherche",
+            "havePos": true,
+            "haveCamera": true,
+            "haveMike": true,
+            "havePicture": true,
+            "haveMusic": true,
+            "haveNotification": true,
+            "haveProximityDevice": true
+          },
+          {
+            "name": "Drive",
+            "type": "Cloud",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": false,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Google Play Store",
+            "type": "Divertissement",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Google Task",
+            "type": "To Do",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": false,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Google Agenda",
+            "type": "Agenda",
+            "havePos": false,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          },
+          {
+            "name": "Google Maps",
+            "type": "Localisation",
+            "havePos": true,
+            "haveCamera": false,
+            "haveMike": false,
+            "havePicture": false,
+            "haveMusic": false,
+            "haveNotification": true,
+            "haveProximityDevice": false
+          }
+        ],
+        "Google Nest": {
+          "name": "Google Home",
+          "type": "Domotique",
+          "havePos": true,
+          "haveCamera": false,
+          "haveMike": false,
+          "havePicture": false,
+          "haveMusic": false,
+          "haveNotification": true,
+          "haveProximityDevice": false
+        }
+      }
+    ]
+  },
+  {
+    "name": "Valve",
+    "Valve": [
+      {
+        "name": "Steam",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": true,
+        "haveProximityDevice": false
+      }
+    ]
+  },
+  {
+    "name": "Sony",
+    "Sony": [
+      {
+        "name": "PlayStation",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": false,
+        "haveProximityDevice": true
+      }
+    ]
+  },
+  {
+    "name": "Nintendo",
+    "Nintendo": [
+      {
+        "name": "Nintendo GameCube",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Nintendo Switch",
+        "type": "Divertissement",
+        "havePos": true,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": true
+      },
+      {
+        "name": "Nintendo DS",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      }
+    ]
+  },
+  {
+    "name": "Meta",
+    "Meta": [
+      {
+        "name": "FaceBook",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Whatsapp",
+        "type": "Message",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": true,
+        "haveProximityDevice": true
+      },
+      {
+        "name": "Oculus quest",
+        "type": "Divertissement",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": false,
+        "haveProximityDevice": true
+      }
+    ]
+  },
+  {
+    "name": "Microsoft",
+    "Microsoft": [
+      {
+        "name": "Visual Studio Code",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Visual Studio Code",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Word",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "SharePoint",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Excel",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "PowerPoint",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Outlook",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Teams",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Authenticator",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      }
+    ]
+  },
+  {
+    "name": "OpenAi",
+    "OpenAi": [
+      {
+        "name": "ChatGPT",
+        "type": "IA",
+        "havePos": true,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      }
+    ]
+  },
+  {
+    "name": "UBS",
+    "UBS": [
+      {
+        "name": "Access",
+        "type": "Banque",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": true,
+        "haveProximityDevice": true
+      },
+      {
+        "name": "TWINT",
+        "type": "Banque",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": true,
+        "haveProximityDevice": true
+      },
+      {
+        "name": "UBS Banking",
+        "type": "Banque",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": true,
+        "haveProximityDevice": true
+      }
+    ]
+  },
+  {
+    "name": "Autre",
+    "Autre": [
+      {
+        "name": "Crunchyroll",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+
+      {
+        "name": "Minecraft",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Lunar Client",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Kerbal Space Program",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Docker",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Godot Engine",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Blender",
+        "type": "Modelisation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Neovim",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Epic Games Launcher",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Temu",
+        "type": "Telephone",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": true,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "WorldBox",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "TDS",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "PocketBook",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Migros",
+        "type": "Telephone",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Arrows",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": true,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Canva",
+        "type": "a trouve",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Teamup",
+        "type": "Telephone",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Starbucks",
+        "type": "Telephone",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Discord",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": true,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": true,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Duolingo",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": true,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "LEO",
+        "type": "Dictionnaire",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Mobile CFF",
+        "type": "Telephone",
+        "havePos": true,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "Samsung",
+        "type": "Telephone",
+        "havePos": true,
+        "haveCamera": true,
+        "haveMike": true,
+        "havePicture": true,
+        "haveMusic": true,
+        "haveNotification": true,
+        "haveProximityDevice": true
+      }
+    ]
+  },
+  {
+    "name": "Web",
+    "Web": [
+      {
+        "name": "gitHub",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+
+      {
+        "name": "youtube.com",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "itch.io",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "fonts.google.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "sketchfab.com",
+        "type": "Modelisation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "roblox.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "stackoverflow.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "etml.ch",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "tryhackme.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "reddit.com",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "wikipedia.org",
+        "type": "Recherche",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "printables.com",
+        "type": "Modelisation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "radiochablais.ch",
+        "type": "Radio",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "codefronts.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "kahoot.it",
+        "type": "Ecole",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "admin.ch",
+        "type": "Recherche",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "pokemon.com",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "w3schools.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "chart.js",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "openclassroom.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "vd.ch",
+        "type": "a trouve",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "ch.ch",
+        "type": "a trouve",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "chess.com",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "fastapi.tiangolo.com",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "theeclipse.app",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "convertio.co",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "fandom.com",
+        "type": "Divertissement",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      },
+      {
+        "name": "kenny.nl",
+        "type": "Programation",
+        "havePos": false,
+        "haveCamera": false,
+        "haveMike": false,
+        "havePicture": false,
+        "haveMusic": false,
+        "haveNotification": false,
+        "haveProximityDevice": false
+      }
+    ]
+  }
+]
