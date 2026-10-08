@@ -129,7 +129,7 @@ document.querySelector(".app").addEventListener("click", () => {
 
       table.innerHTML += `
                 <tr>
-              <td><h2>Lenght: ${count * 9}</h2></td>
+              <td><h2>Lenght: ${count} ( ${count * 9} data ) * 9}</h2></td>
               <td></td>
               <td></td>
               <td></td>
@@ -284,7 +284,7 @@ document.querySelector(".webSite").addEventListener("click", () => {
 
       table.innerHTML += `
                 <tr>
-              <td><h2>Lenght: ${count * 9}</h2></td>
+              <td><h2>Lenght: ${count} ( ${count * 9} data ) * 9}</h2></td>
               <td></td>
               <td></td>
               <td></td>
@@ -420,7 +420,7 @@ fetch("./data/data.json")
 
     table.innerHTML += `
                 <tr>
-              <td><h2>Lenght: ${count * 9}</h2></td>
+              <td><h2>Lenght: ${count} ( ${count * 9} data ) * 9}</h2></td>
               <td></td>
               <td></td>
               <td></td>
