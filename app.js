@@ -155,7 +155,7 @@ ShowSite(false);
 
       table.innerHTML += `
               <tr>
-                    <td class="lenght"><h2>Lenght: ${count} ( ${count * 9} data )</h2></td>
+                    <td class="lenght"><h2>Lenght: ${count}</h2></td>
                     <td></td>
                     <td></td>
                     <td></td>
