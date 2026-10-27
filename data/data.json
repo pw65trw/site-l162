@@ -263,17 +263,6 @@
         "haveProximityDevice": false
       },
       {
-        "name": "Visual Studio Code",
-        "type": "Programation",
-        "havePos": false,
-        "haveCamera": false,
-        "haveMike": false,
-        "havePicture": false,
-        "haveMusic": false,
-        "haveNotification": false,
-        "haveProximityDevice": false
-      },
-      {
         "name": "Word",
         "type": "Ecole",
         "havePos": false,
