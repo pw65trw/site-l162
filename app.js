@@ -78,8 +78,8 @@ ShowSite(false);
                       </td>
                               <td data-label="Role"><span class="ct-01__role">${eleg.type}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${eleg.havePos ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.havePos ? "Oui" : "Non"}</span></td>
-                              <td data-label="Status"><span class="ct-01__badge ${eleg.haveCamera ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.haveCamera ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${eleg.haveMike ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.haveMike ? "Oui" : "Non"}</span></td>
+                              <td data-label="Status"><span class="ct-01__badge ${eleg.haveCamera ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.haveCamera ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${eleg.havePicture ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.havePicture ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${eleg.haveMusic ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.haveMusic ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${eleg.haveNotification ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${eleg.haveNotification ? "Oui" : "Non"}</span></td>
