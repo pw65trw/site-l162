@@ -138,6 +138,12 @@ Nous pouvons vite voir que cet objet à bien plus de propriété qui sont de typ
 
 # MCD / MLD 
 
-Passons maintenant à la création du MCD / MLD :
-
-
+Passons maintenant aux MCD / MLD que j'ai fait et leurs dictionnaire :
+<br>
+<br>
+<br>
+![dictionnaire](img/dictionaire.png)
+![dictionnaire](img/dictionaire.png)
+![dictionnaire](img/dictionaire.png)
+<br>
+nous pouvons voire les trois élements de mon MCD...
