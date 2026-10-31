@@ -138,12 +138,13 @@ Nous pouvons vite voir que cet objet à bien plus de propriété qui sont de typ
 
 # MCD / MLD 
 
-Passons maintenant aux MCD / MLD que j'ai fait et leurs dictionnaire :
+Passons maintenant aux MCD / MLD que j'ai fait et leur dictionnaire :
 <br>
 <br>
 <br>
 ![dictionnaire](img/dictionaire.png)
-![dictionnaire](img/dictionaire.png)
-![dictionnaire](img/dictionaire.png)
+![dictionnaire](img/MCD.png)
+
+![dictionnaire](img/MLD.png)
 <br>
 nous pouvons voire les trois élements de mon MCD...
