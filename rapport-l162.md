@@ -147,4 +147,11 @@ Passons maintenant aux MCD / MLD que j'ai fait et leur dictionnaire :
 
 ![dictionnaire](img/MLD.png)
 <br>
-nous pouvons voire les trois élements de mon MCD...
+le MLD possède deux tables (t_application et t_autorisation) et une fk (application_fk)
+
+# Analyse des données
+
+je vais maintenant répondre aux questions posé plus haut:
+1. les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
+2.
+3. le type ( par "type" je parle de la clé de mon JSON ) de donné que j'ai le plus est le type "Divertisement" (25 foix)
