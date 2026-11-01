@@ -239,7 +239,7 @@ appareil photo, galerie, Musique et appareils à proximité sont les quatre plus
 - [X] J’ai expliqué d’où viennent mes données.  
 - [X] J’ai expliqué comment elles ont été collectées.  
 - [ ] J’ai expliqué comment les données personnelles sont protégées.  
-- [ ] J’ai présenté les données initiales.  
+- [X] J’ai présenté les données initiales.  
 - [ ] J’ai analysé leur qualité.  
 - [X] J’ai présenté un dictionnaire des données.  
 - [X] J’ai expliqué les principales modifications effectuées.  
