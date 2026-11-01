@@ -220,3 +220,14 @@ appareil photo, galerie, Musique et appareils à proximité sont les quatre plus
 
 **9.1 Bilan**
 
+
+
+**9.2 Difficultés rencontrées**
+
+
+
+**9.3 Améliorations possibles **
+
+
+
+# Annexes
