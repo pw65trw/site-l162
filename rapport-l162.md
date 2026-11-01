@@ -212,14 +212,11 @@ j'ai compter et trouvé:
 appareil photo, galerie, Musique et appareils à proximité sont les quatre plus bas avec un score de 10, je suppose que se sont quatre autorisations que je donne plus difficilement et donc aux même applications en qui j'ai confiance.
 
 # 8. Synthèse des résultats
-
-
+grâce à ce projet, j'ai pu mieux voir les principal informations que les applications que j'utilise ont sur moi et, aujourd'hui, j'accepte moins facilement lors ce qu'une application veut accédé à mes notifications, ma galerie, etc.
 
 # 9. Conclusion
-
-
 **9.1 Bilan**
-
+je remarque que, bien que je trouve déjà accepter trop, il y a bien plus de "oui" que de "non" ( 82 "oui pour 296 "non" ) ce qui pourrais s'expliqué par le fait que mon téléphone ne me demande seulement lorsque ça sert vraiment et mets le reste des autorisations en "non" (=> false) combiner au fait que je refuse plus facilement que j'accepte.
 
 **9.2 Difficultés rencontrées**
 
@@ -231,25 +228,3 @@ appareil photo, galerie, Musique et appareils à proximité sont les quatre plus
 # Annexes
 
 
-# Vérification avant de remettre le rapport
-
-- [X] Mon rapport possède une page de titre.   
-- [X] Mon thème et mon objectif sont clairement expliqués.  
-- [X]  J’ai formulé au moins cinq questions.  
-- [X] J’ai expliqué d’où viennent mes données.  
-- [X] J’ai expliqué comment elles ont été collectées.  
-- [ ] J’ai expliqué comment les données personnelles sont protégées.  
-- [X] J’ai présenté les données initiales.  
-- [ ] J’ai analysé leur qualité.  
-- [X] J’ai présenté un dictionnaire des données.  
-- [X] J’ai expliqué les principales modifications effectuées.  
-- [X] J’ai présenté le MCD.  
-- [X] J’ai présenté le modèle relationnel. 
-- [X] J’ai présenté la structure finale. 
-- [X] J’ai répondu aux cinq questions.  
-- [X] Mes réponses sont basées sur les données.  
-- [X] J’ai présenté des graphiques pertinents.  
-- [X] Chaque graphique est expliqué.  
-- [ ] J’ai rédigé une synthèse. 
-- [ ] J’ai rédigé une conclusion personnelle. 
-- [X] Les données de tiers sont anonymisées.  
