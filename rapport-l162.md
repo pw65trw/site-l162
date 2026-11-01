@@ -153,6 +153,9 @@ le MLD possède deux tables (t_application et t_autorisation) et une fk (applica
 
 je vais maintenant répondre aux questions posé plus haut:
 <h3><strong>6.1 Quelle information sont prise sur moi ?**</strong></h3>
+<h4>Méthode utilisée</h4>
+<h4>Résultat</h4>
+<h4>Interprétation</h4>
 les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
 
 <h3><strong>6.2 Quelle groupe / marque a le plus d'information sur moi ?</strong></h3>
