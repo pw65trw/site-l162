@@ -185,9 +185,19 @@ j'ai crée un script de 20 lignes qui me donne le résultat suivant:
 ![graphique question 6.3](img/chart/6_3.png)
 
 <h4>Interprétation</h4>
+l'ordre des trois premiers est divertissement, programmation et école, probablement car c'est mes centre d'intérêt. 
 
 <h3><strong>6.4 Combien de services numériques différents est-ce que j’utilise ?</strong></h3>
-    
+
+<h4>Méthode utilisée</h4>
+cette information est donnée en bas de mon tableau
+
+<h4>Résultat</h4>
+
+54 application + 28 site = 82 services numériques différents.
+
+<h4>Interprétation</h4>
+
 <h3><strong>6.5 Quelle autorisation je donne le moins sur moi ?</strong></h3>
 
 <h4>Méthode utilisée</h4>
@@ -198,3 +208,5 @@ j'ai compter et trouvé:
 ![graphique question 6.5](img/chart/6_5.png)
 
 <h4>Interprétation</h4>
+
+appareil photo, galerie, Musique et appareils à proximité sont les quatre plus bas avec un score de 10, je suppose que se sont quatre autorisations que je donne plus difficilement et donc aux même applications en qui j'ai confiance.
