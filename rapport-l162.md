@@ -152,13 +152,17 @@ le MLD possède deux tables (t_application et t_autorisation) et une fk (applica
 # 6. Analyse des données
 
 je vais maintenant répondre aux questions posé plus haut:
-<h3>**6.1 Quelle information sont prise sur moi ?**</h3>
+<h3><strong>6.1 Quelle information sont prise sur moi ?**</strong></h3>
 les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
-<h3>**6.2 Quelle groupe / marque a le plus d'information sur moi ?**</h3>
+
+<h3><strong>6.2 Quelle groupe / marque a le plus d'information sur moi ?</strong></h3>
 le groupe / marque qui a le plus d'information sur moi est clairement Alphabet avec <>
-<h3>**6.3 Quelle “type” d’application / site ai je le plus ?**</h3>
+    
+<h3><strong>6.3 Quelle “type” d’application / site ai je le plus ?</strong></h3>
 le type ( par "type" je parle de la clé de mon JSON ) de donné que j'ai le plus est le type "Divertisement" (25 foix)
-<h3>**6.4 Combien de services numériques différents est-ce que j’utilise ?**</h3>
+
+<h3><strong>6.4 Combien de services numériques différents est-ce que j’utilise ?</strong></h3>
 le nombre de services différents que j'utilise est de <>
-<h3>**6.5 Quelle autorisation je donne le moins sur moi ?**</h3>
+    
+<h3><strong>6.5 Quelle autorisation je donne le moins sur moi ?</strong></h3>
 l'autorisation la moins donnée sur moi est <>
