@@ -221,11 +221,8 @@ je remarque que, bien que je trouve déjà accepter trop, il y a bien plus de "o
 
 **9.2 Difficultés rencontrées**
 
+je ne crois pas que j'ai rencontrer de difficulté particulière mis appart format dans le quelle je créerai ce fichier: il d'abord été en docx puis envoyé en PDF pour finir en markDown dans ce fichier.
 
 **9.3 Améliorations possibles**
 
-
-
-# Annexes
-
-
+une amélioration que j'aurai pu faire aurai été d'écrire mes questions de manière à aguiller mon tableau sur le quelle repose tout mon projet
