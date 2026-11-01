@@ -226,7 +226,7 @@ appareil photo, galerie, Musique et appareils à proximité sont les quatre plus
 
 
 
-**9.3 Améliorations possibles **
+**9.3 Améliorations possibles**
 
 
 
