@@ -210,3 +210,13 @@ j'ai compter et trouvé:
 <h4>Interprétation</h4>
 
 appareil photo, galerie, Musique et appareils à proximité sont les quatre plus bas avec un score de 10, je suppose que se sont quatre autorisations que je donne plus difficilement et donc aux même applications en qui j'ai confiance.
+
+# 8. Synthèse des résultats
+
+
+
+# 9. Conclusion
+
+
+**9.1 Bilan**
+
