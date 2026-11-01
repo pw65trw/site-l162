@@ -233,42 +233,23 @@ appareil photo, galerie, Musique et appareils à proximité sont les quatre plus
 
 # Vérification avant de remettre le rapport
 
-[]Mon rapport possède une page de titre.   
-
-[]Mon thème et mon objectif sont clairement expliqués.  
-
-[]J’ai formulé au moins cinq questions.  
-
-[]J’ai expliqué d’où viennent mes données.  
-
-[]J’ai expliqué comment elles ont été collectées.  
-
-[]J’ai expliqué comment les données personnelles sont protégées.  
-
-[]J’ai présenté les données initiales.  
-
-[]J’ai analysé leur qualité.  
-
-[]J’ai présenté un dictionnaire des données.  
-
-[]J’ai expliqué les principales odifications effectuées.  
-
-[]J’ai présenté le MCD.  
-
-[]J’ai présenté le modèle relationnel. 
-
-[]J’ai présenté la structure finale. 
-
-[]J’ai répondu aux cinq questions.  
-
-[]Mes réponses sont basées sur les données.  
-
-[]J’ai présenté des graphiques pertinents.  
-
-[]Chaque graphique est expliqué.  
-
-[]J’ai rédigé une synthèse. 
-
-[]J’ai rédigé une conclusion personnelle. 
-
-[]Les données de tiers sont anonymisées.  
+- [ ] Mon rapport possède une page de titre.   
+- [ ] Mon thème et mon objectif sont clairement expliqués.  
+- [ ]  J’ai formulé au moins cinq questions.  
+- [ ] J’ai expliqué d’où viennent mes données.  
+- [ ] J’ai expliqué comment elles ont été collectées.  
+- [ ] J’ai expliqué comment les données personnelles sont protégées.  
+- [ ] J’ai présenté les données initiales.  
+- [ ] J’ai analysé leur qualité.  
+- [ ] J’ai présenté un dictionnaire des données.  
+- [ ] J’ai expliqué les principales odifications effectuées.  
+- [ ] J’ai présenté le MCD.  
+- [ ] J’ai présenté le modèle relationnel. 
+- [ ] J’ai présenté la structure finale. 
+- [ ] J’ai répondu aux cinq questions.  
+- [ ] Mes réponses sont basées sur les données.  
+- [ ] J’ai présenté des graphiques pertinents.  
+- [ ] Chaque graphique est expliqué.  
+- [ ] J’ai rédigé une synthèse. 
+- [ ] J’ai rédigé une conclusion personnelle. 
+- [ ] Les données de tiers sont anonymisées.  
