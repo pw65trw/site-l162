@@ -6,7 +6,7 @@
         "Google": [
           {
             "name": "Gemini",
-            "type": "Ecole",
+            "type": "Divertisement",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -28,7 +28,7 @@
           },
           {
             "name": "YouTube Music",
-            "type": "Streaming de musique",
+            "type": "Divertisement",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -50,7 +50,7 @@
           },
           {
             "name": "Google Chrome",
-            "type": "Navigateur",
+            "type": "Ecole",
             "havePos": true,
             "haveCamera": true,
             "haveMike": true,
@@ -72,7 +72,7 @@
           },
           {
             "name": "Drive",
-            "type": "Cloud",
+            "type": "Divertisement",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -94,7 +94,7 @@
           },
           {
             "name": "Google Task",
-            "type": "To Do",
+            "type": "Administration",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -105,7 +105,7 @@
           },
           {
             "name": "Google Agenda",
-            "type": "Agenda",
+            "type": "Administration",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -116,7 +116,7 @@
           },
           {
             "name": "Google Maps",
-            "type": "Localisation",
+            "type": "Administration",
             "havePos": true,
             "haveCamera": false,
             "haveMike": false,
@@ -126,17 +126,6 @@
             "haveProximityDevice": false
           }
         ],
-        "Google Nest": {
-          "name": "Google Home",
-          "type": "Domotique",
-          "havePos": true,
-          "haveCamera": false,
-          "haveMike": false,
-          "havePicture": false,
-          "haveMusic": false,
-          "haveNotification": true,
-          "haveProximityDevice": false
-        }
       }
     ]
   },
