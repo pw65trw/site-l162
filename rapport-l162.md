@@ -216,6 +216,7 @@ grâce à ce projet, j'ai pu mieux voir les principal informations que les appli
 
 # 9. Conclusion
 **9.1 Bilan**
+
 je remarque que, bien que je trouve déjà accepter trop, il y a bien plus de "oui" que de "non" ( 82 "oui pour 296 "non" ) ce qui pourrais s'expliqué par le fait que mon téléphone ne me demande seulement lorsque ça sert vraiment et mets le reste des autorisations en "non" (=> false) combiner au fait que je refuse plus facilement que j'accepte.
 
 **9.2 Difficultés rencontrées**
