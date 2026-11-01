@@ -169,7 +169,8 @@ je vais prendre la somme des autorisations des différant groupe / marque et met
 <h4>Résultat</h4>
 le graphique circulaire ressemble à:
 <br>
-![graphique question 6.2](img/chart/6_2.png)
+
+![graphique_6_2](img/chart/6_2.png)
 
 <h4>Interprétation</h4>
 <!-- ajouter phrase graphique -->
@@ -180,6 +181,7 @@ le graphique circulaire ressemble à:
 j'ai crée un script de 20 lignes qui me donne le résultat suivant:
 
 <h4>Résultat</h4>
+
 ![graphique question 6.3](img/chart/6_3.png)
 
 <h4>Interprétation</h4>
