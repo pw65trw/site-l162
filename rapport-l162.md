@@ -152,20 +152,46 @@ le MLD possède deux tables (t_application et t_autorisation) et une fk (applica
 # 6. Analyse des données
 
 je vais maintenant répondre aux questions posé plus haut:
-<h3><strong>6.1 Quelle information sont prise sur moi ?**</strong></h3>
+<h3><strong>6.1 Quelle information sont prise sur moi ?</strong></h3>
+
 <h4>Méthode utilisée</h4>
+pour le savoir, je peut me réferer au point Collecte des données
 <h4>Résultat</h4>
-<h4>Interprétation</h4>
-les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
+on y a établie que les autorisations que nous prendrerons serrons: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
+<!-- <h4>Interprétation</h4> -->
+
 
 <h3><strong>6.2 Quelle groupe / marque a le plus d'information sur moi ?</strong></h3>
-le groupe / marque qui a le plus d'information sur moi est clairement Alphabet avec <>
-    
+
+<h4>Méthode utilisée</h4>
+je vais prendre la somme des autorisations des différant groupe / marque et mettre les résultat sous forme de graphique circulaire
+
+<h4>Résultat</h4>
+le graphique circulaire ressemble à:
+<br>
+[graphique question 6.2](img/chart/6_2.png)
+
+<h4>Interprétation</h4>
+<!-- ajouter phrase graphique -->
+
 <h3><strong>6.3 Quelle “type” d’application / site ai je le plus ?</strong></h3>
-le type ( par "type" je parle de la clé de mon JSON ) de donné que j'ai le plus est le type "Divertisement" (25 foix)
+
+<h4>Méthode utilisée</h4>
+j'ai crée un script de 20 lignes qui me donne le résultat suivant:
+
+<h4>Résultat</h4>
+[graphique question 6.3](img/chart/6_3.png)
+
+<h4>Interprétation</h4>
 
 <h3><strong>6.4 Combien de services numériques différents est-ce que j’utilise ?</strong></h3>
-le nombre de services différents que j'utilise est de <>
     
 <h3><strong>6.5 Quelle autorisation je donne le moins sur moi ?</strong></h3>
-l'autorisation la moins donnée sur moi est <>
+
+<h4>Méthode utilisée</h4>
+j'ai crée un script de 20 lignes qui me donne le résultat suivant:
+
+<h4>Résultat</h4>
+[graphique question 6.4](img/chart/6_4.png)
+
+<h4>Interprétation</h4>
