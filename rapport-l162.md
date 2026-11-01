@@ -36,13 +36,13 @@ Pour ce faire, je vais me poser cinque questions auquelle nous allons répondre 
 
 1. Quelle information sont prise sur moi ?
 
-2. Quelle autorisation est la plus prise sur moi ?
+2. Quelle groupe / marque a le plus d'information sur moi ?
 
 3. Quelle “type” d’application / site ai je le plus ?
 
-4. **Combien de services numériques différents est-ce que j’utilise ?**
+4. Combien de services numériques différents est-ce que j’utilise ?
 
-5. **Quelle proportion de mes services conserve un historique de mon activité ?**  
+5. Quelle autorisation je donne le moins sur moi ?
 
 # Collecte des données
 
@@ -149,11 +149,16 @@ Passons maintenant aux MCD / MLD que j'ai fait et leur dictionnaire :
 <br>
 le MLD possède deux tables (t_application et t_autorisation) et une fk (application_fk)
 
-# Analyse des données
+# 6. Analyse des données
 
 je vais maintenant répondre aux questions posé plus haut:
-1. les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
-2. 
-3. le type ( par "type" je parle de la clé de mon JSON ) de donné que j'ai le plus est le type "Divertisement" (25 foix)
-4. 
-5. 
+<h3>**6.1 Quelle information sont prise sur moi ?**</h3>
+les donnes prise sur sont les colonnes de mon tableau soit: Position, Appareil photo, Micro, Photo/video (ma galerie), Musique et audio, Notification, Appareils à proximité
+<h3>**6.2 Quelle groupe / marque a le plus d'information sur moi ?**</h3>
+le groupe / marque qui a le plus d'information sur moi est clairement Alphabet avec <>
+<h3>**6.3 Quelle “type” d’application / site ai je le plus ?**</h3>
+le type ( par "type" je parle de la clé de mon JSON ) de donné que j'ai le plus est le type "Divertisement" (25 foix)
+<h3>**6.4 Combien de services numériques différents est-ce que j’utilise ?**</h3>
+le nombre de services différents que j'utilise est de <>
+<h3>**6.5 Quelle autorisation je donne le moins sur moi ?**</h3>
+l'autorisation la moins donnée sur moi est <>
