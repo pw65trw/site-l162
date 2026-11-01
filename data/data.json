@@ -6,7 +6,7 @@
         "Google": [
           {
             "name": "Gemini",
-            "type": "Divertissement",
+            "type": "Ecole",
             "havePos": false,
             "haveCamera": false,
             "haveMike": false,
@@ -61,7 +61,7 @@
           },
           {
             "name": "Google",
-            "type": "Moteur de recherche",
+            "type": "Divertisement",
             "havePos": true,
             "haveCamera": true,
             "haveMike": true,
@@ -226,7 +226,7 @@
       },
       {
         "name": "Whatsapp",
-        "type": "Message",
+        "type": "Divertissement",
         "havePos": true,
         "haveCamera": true,
         "haveMike": true,
@@ -346,7 +346,7 @@
     "OpenAi": [
       {
         "name": "ChatGPT",
-        "type": "IA",
+        "type": "Divertissement",
         "havePos": true,
         "haveCamera": false,
         "haveMike": false,
@@ -362,7 +362,7 @@
     "UBS": [
       {
         "name": "Access",
-        "type": "Banque",
+        "type": "Administration",
         "havePos": true,
         "haveCamera": true,
         "haveMike": true,
@@ -373,7 +373,7 @@
       },
       {
         "name": "TWINT",
-        "type": "Banque",
+        "type": "Administration",
         "havePos": true,
         "haveCamera": true,
         "haveMike": true,
@@ -384,7 +384,7 @@
       },
       {
         "name": "UBS Banking",
-        "type": "Banque",
+        "type": "Administration",
         "havePos": true,
         "haveCamera": true,
         "haveMike": true,
@@ -566,7 +566,7 @@
       },
       {
         "name": "Canva",
-        "type": "a trouve",
+        "type": "Ecole",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -621,7 +621,7 @@
       },
       {
         "name": "LEO",
-        "type": "Dictionnaire",
+        "type": "Ecole",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -770,7 +770,7 @@
       },
       {
         "name": "wikipedia.org",
-        "type": "Recherche",
+        "type": "Ecole",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -792,7 +792,7 @@
       },
       {
         "name": "radiochablais.ch",
-        "type": "Radio",
+        "type": "Divertissement",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -825,7 +825,7 @@
       },
       {
         "name": "admin.ch",
-        "type": "Recherche",
+        "type": "Administration",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -880,7 +880,7 @@
       },
       {
         "name": "vd.ch",
-        "type": "a trouve",
+        "type": "Administration",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
@@ -891,7 +891,7 @@
       },
       {
         "name": "ch.ch",
-        "type": "a trouve",
+        "type": "Administration",
         "havePos": false,
         "haveCamera": false,
         "haveMike": false,
