@@ -191,9 +191,9 @@ j'ai crée un script de 20 lignes qui me donne le résultat suivant:
 <h3><strong>6.5 Quelle autorisation je donne le moins sur moi ?</strong></h3>
 
 <h4>Méthode utilisée</h4>
-j'ai crée un script de 20 lignes qui me donne le résultat suivant:
+j'ai compter et trouvé:
 
 <h4>Résultat</h4>
-![graphique question 6.4](img/chart/6_4.png)
+![graphique question 6.5](img/chart/6_5.png)
 
 <h4>Interprétation</h4>
