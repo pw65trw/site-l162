@@ -102,8 +102,8 @@ ShowSite(false);
                       </td>
                               <td data-label="Role"><span class="ct-01__role">${ele.type}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${ele.havePos ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.havePos ? "Oui" : "Non"}</span></td>
-                              <td data-label="Status"><span class="ct-01__badge ${ele.haveCamera ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.haveCamera ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${ele.haveMike ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.haveMike ? "Oui" : "Non"}</span></td>
+                              <td data-label="Status"><span class="ct-01__badge ${ele.haveCamera ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.haveCamera ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${ele.havePicture ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.havePicture ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${ele.haveMusic ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.haveMusic ? "Oui" : "Non"}</span></td>
                               <td data-label="Status"><span class="ct-01__badge ${ele.haveNotification ? "ct-01__badge--active" : "ct-01__badge--danger"}"><span class="ct-01__dot"></span>${ele.haveNotification ? "Oui" : "Non"}</span></td>
